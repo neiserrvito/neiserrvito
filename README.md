@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hello World, I'm Bimbim Slank
 
-<!--
-**neiserrvito/neiserrvito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=25&center=true&vCenter=true&width=500&lines=Telegram+Bot+Developer;Automation+Enthusiast;Always+Learning..." />
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🔥 Focus: Telegram Bot & Automation  
+- ⚡ Skill: Python, Docker, Web Scraping  
+- 🚀 Project: File Sharing Bot  
+
+---
+
+## 🛠 Tools & Tech
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=neiserrvito&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔗 Connect With Me
+- Telegram: https://t.me/@reformasitotal
+
+---
+
+🔥 *Building something powerful...*
